@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+# [BrainMates] 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+## Web page to find out students who want to study as a 2 or in a group with similar subject intrests, available time, preferred time and study place.  
+### Team Name: [Soaring_step]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Kenitta Anna Koshy] - [Mar Baselios Christian College of Engg and Tech,Peermade]
+- Member 2: [Anna Babu] - [Mar Baselios Christian College of Engg and Tech,Peermade]
+- Member 3: [Reshma Ramesh] - [Mar Baselios Christian College of Engg and Tech,Peermade]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
